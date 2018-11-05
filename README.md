@@ -1,4 +1,4 @@
-# Logistic regression developed for the Google Store Kaggle competition.
+# Logistic regression model developed for the Google Store Kaggle competition.
 
 Introduction to the "Google Analytics Customer Revenue Prediction".
 
