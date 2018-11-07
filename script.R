@@ -97,8 +97,8 @@ list_not_set <- c("not available in demo dataset", "(not provided)",
 
 # Once defined the functions, we are going to upload the datasets and make use of the functions above to clean de JSON format. 
 # Loading dataset and cleaninng 
-train <- load_info("C:/Users/Albert/Desktop/Data Science/Research and innovation/Kaggle competition/train.csv")
-test <- load_info("C:/Users/Albert/Desktop/Data Science/Research and innovation/Kaggle competition/test.csv")
+train <- load_info(".../train.csv")
+test <- load_info(".../test.csv")
 
 # Cleaning the JSON format
 train <- clean_json(train)  
